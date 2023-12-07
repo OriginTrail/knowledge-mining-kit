@@ -2,8 +2,6 @@
 
 Knowledge Mining Kit is a comprehensive set of tools and tutorials tailored for knowledge miners.
 
-![](images/cover.jpg)
-
 The Knowledge Mining Kit will be rolled out as part of **Genesis Knowledge Mining** beta program, which will be performed only on OriginTrail Parachain (NeuroWeb).
 
 The initial beta Knowledge Mining will be facilitated by OriginTrail Core developers and all interested knowledge miners can participate by using the Knowledge Mining Kit. The aim of the beta program is to validate the intended approach in a simplified manner (MVP approach) so that improvements and potential flaws can be discovered in a timely manner.
